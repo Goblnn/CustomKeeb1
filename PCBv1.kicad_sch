@@ -6916,6 +6916,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 163.83 108.585)
+		(size 46.355 23.495)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d8c559bc-39be-4531-8454-2b80f52e49c3")
+		(property "Sheetname" "matrix"
+			(at 163.83 107.8734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "matrix.kicad_sch"
+			(at 163.83 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCBv1"
+				(path "/8d9d261d-9d52-405a-a0e1-e850188e3e4c"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
