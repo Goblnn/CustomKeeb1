@@ -3060,7 +3060,7 @@
 		)
 		(uuid "ff075f50-0ad2-40d7-8266-c6fa5d15c9e7")
 	)
-	(global_label "Row3"
+	(global_label "row3"
 		(shape input)
 		(at 22.86 114.3 180)
 		(fields_autoplaced yes)
@@ -3072,7 +3072,7 @@
 		)
 		(uuid "15905c08-62e1-4dfe-8334-fbfde2ae3761")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.9158 114.3 0)
+			(at 15.3996 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3082,7 +3082,7 @@
 			)
 		)
 	)
-	(global_label "Row2"
+	(global_label "row2"
 		(shape input)
 		(at 22.86 91.44 180)
 		(fields_autoplaced yes)
@@ -3094,7 +3094,7 @@
 		)
 		(uuid "1d9b8e38-1c6e-47bb-b5c1-f589ba711a9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.9158 91.44 0)
+			(at 15.3996 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3104,7 +3104,7 @@
 			)
 		)
 	)
-	(global_label "Col8"
+	(global_label "col8"
 		(shape input)
 		(at 137.16 24.13 90)
 		(fields_autoplaced yes)
@@ -3116,7 +3116,7 @@
 		)
 		(uuid "233fcbe3-06c0-4697-abba-0a00a8f11856")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 16.8511 90)
+			(at 137.16 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,7 +3126,7 @@
 			)
 		)
 	)
-	(global_label "Col2"
+	(global_label "col2"
 		(shape input)
 		(at 60.96 24.13 90)
 		(fields_autoplaced yes)
@@ -3138,7 +3138,7 @@
 		)
 		(uuid "3d401ade-db83-4ad5-8df9-f3807b6ee480")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.96 16.8511 90)
+			(at 60.96 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3148,7 +3148,7 @@
 			)
 		)
 	)
-	(global_label "Col9"
+	(global_label "col9"
 		(shape input)
 		(at 149.86 24.13 90)
 		(fields_autoplaced yes)
@@ -3160,7 +3160,7 @@
 		)
 		(uuid "3e6d0de8-2d7a-469c-b42c-ca6063166c39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.86 16.8511 90)
+			(at 149.86 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3170,7 +3170,7 @@
 			)
 		)
 	)
-	(global_label "Col12"
+	(global_label "col12"
 		(shape input)
 		(at 187.96 24.13 90)
 		(fields_autoplaced yes)
@@ -3182,7 +3182,7 @@
 		)
 		(uuid "581cbfba-8a13-416e-bdde-47b0509b1c30")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 15.6416 90)
+			(at 187.96 15.823 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3192,7 +3192,7 @@
 			)
 		)
 	)
-	(global_label "Col4"
+	(global_label "col4"
 		(shape input)
 		(at 86.36 24.13 90)
 		(fields_autoplaced yes)
@@ -3204,7 +3204,7 @@
 		)
 		(uuid "5ff276db-282a-4bfd-9e4b-e82b2cc33331")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 16.8511 90)
+			(at 86.36 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3214,7 +3214,7 @@
 			)
 		)
 	)
-	(global_label "Col5"
+	(global_label "col5"
 		(shape input)
 		(at 99.06 24.13 90)
 		(fields_autoplaced yes)
@@ -3226,7 +3226,7 @@
 		)
 		(uuid "6d12f24c-c9e7-4d9d-9177-136c8010a120")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 16.8511 90)
+			(at 99.06 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +3236,7 @@
 			)
 		)
 	)
-	(global_label "Row0"
+	(global_label "row0"
 		(shape input)
 		(at 22.86 45.72 180)
 		(fields_autoplaced yes)
@@ -3248,7 +3248,7 @@
 		)
 		(uuid "6fd88701-c809-457b-8ea8-b039bbe7965c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.9158 45.72 0)
+			(at 15.3996 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3258,7 +3258,7 @@
 			)
 		)
 	)
-	(global_label "Row1"
+	(global_label "row1"
 		(shape input)
 		(at 22.86 68.58 180)
 		(fields_autoplaced yes)
@@ -3270,7 +3270,7 @@
 		)
 		(uuid "7d4b5717-b984-4450-b46c-23403da5dd92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.9158 68.58 0)
+			(at 15.3996 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3280,7 +3280,7 @@
 			)
 		)
 	)
-	(global_label "Col0"
+	(global_label "col0"
 		(shape input)
 		(at 35.56 24.13 90)
 		(fields_autoplaced yes)
@@ -3292,7 +3292,7 @@
 		)
 		(uuid "9d256252-9e2f-48f8-89c6-52acf0cc215e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.56 16.8511 90)
+			(at 35.56 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3302,7 +3302,7 @@
 			)
 		)
 	)
-	(global_label "Col1"
+	(global_label "col1"
 		(shape input)
 		(at 48.26 24.13 90)
 		(fields_autoplaced yes)
@@ -3314,7 +3314,7 @@
 		)
 		(uuid "9f17be63-6a8b-4274-9ff6-36d65d0b9c96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.26 16.8511 90)
+			(at 48.26 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3324,7 +3324,7 @@
 			)
 		)
 	)
-	(global_label "Col13"
+	(global_label "col13"
 		(shape input)
 		(at 200.66 24.13 90)
 		(fields_autoplaced yes)
@@ -3336,7 +3336,7 @@
 		)
 		(uuid "a13fff9f-6d57-41b8-b3a6-069959ba6757")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.66 15.6416 90)
+			(at 200.66 15.823 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3346,7 +3346,7 @@
 			)
 		)
 	)
-	(global_label "Col7"
+	(global_label "col7"
 		(shape input)
 		(at 124.46 24.13 90)
 		(fields_autoplaced yes)
@@ -3358,7 +3358,7 @@
 		)
 		(uuid "a78be837-88db-4bd6-8622-4a4e214f82a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.46 16.8511 90)
+			(at 124.46 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3368,7 +3368,7 @@
 			)
 		)
 	)
-	(global_label "Col6"
+	(global_label "col6"
 		(shape input)
 		(at 111.76 24.13 90)
 		(fields_autoplaced yes)
@@ -3380,7 +3380,7 @@
 		)
 		(uuid "acba91d7-435e-4e8e-8b5d-6c67c406ab2a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.76 16.8511 90)
+			(at 111.76 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3390,7 @@
 			)
 		)
 	)
-	(global_label "Col14"
+	(global_label "col14"
 		(shape input)
 		(at 213.36 24.13 90)
 		(fields_autoplaced yes)
@@ -3402,7 +3402,7 @@
 		)
 		(uuid "b2a9b63b-99e3-4fec-a6c9-2014d12dfa0b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.36 15.6416 90)
+			(at 213.36 15.823 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3412,7 +3412,7 @@
 			)
 		)
 	)
-	(global_label "Row4"
+	(global_label "row4"
 		(shape input)
 		(at 22.86 137.16 180)
 		(fields_autoplaced yes)
@@ -3424,7 +3424,7 @@
 		)
 		(uuid "de8ba767-2d64-4bed-b01f-b05a45ec3a31")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.9158 137.16 0)
+			(at 15.3996 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3434,7 +3434,7 @@
 			)
 		)
 	)
-	(global_label "Col11"
+	(global_label "col11"
 		(shape input)
 		(at 175.26 24.13 90)
 		(fields_autoplaced yes)
@@ -3446,7 +3446,7 @@
 		)
 		(uuid "f5295853-2951-4b0e-b9fb-42afe184501c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.26 15.6416 90)
+			(at 175.26 15.823 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3456,7 +3456,7 @@
 			)
 		)
 	)
-	(global_label "Col3"
+	(global_label "col3"
 		(shape input)
 		(at 73.66 24.13 90)
 		(fields_autoplaced yes)
@@ -3468,7 +3468,7 @@
 		)
 		(uuid "f7fd7fb7-cf7e-482c-afa4-64236fab3032")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.66 16.8511 90)
+			(at 73.66 17.0325 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3478,7 +3478,7 @@
 			)
 		)
 	)
-	(global_label "Col10"
+	(global_label "col10"
 		(shape input)
 		(at 162.56 24.13 90)
 		(fields_autoplaced yes)
@@ -3490,7 +3490,7 @@
 		)
 		(uuid "fc3f9e95-1cbe-4b33-998b-cb589bd0a97d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.56 15.6416 90)
+			(at 162.56 15.823 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "TAB"
 			(at 30.48 52.07 0)
 			(effects
 				(font
@@ -3613,7 +3613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TAB"
+		(property "Footprint" ""
 			(at 30.48 52.07 0)
 			(effects
 				(font
@@ -3936,7 +3936,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#2"
 			(at 55.88 29.21 0)
 			(effects
 				(font
@@ -3944,7 +3944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#2"
+		(property "Footprint" ""
 			(at 55.88 29.21 0)
 			(effects
 				(font
@@ -4003,7 +4003,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "]}"
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -4011,7 +4011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "]}"
+		(property "Footprint" ""
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -4158,7 +4158,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "BSPC"
 			(at 195.58 29.21 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSPC"
+		(property "Footprint" ""
 			(at 195.58 29.21 0)
 			(effects
 				(font
@@ -4401,7 +4401,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CTRL"
 			(at 30.48 120.65 0)
 			(effects
 				(font
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CTRL"
+		(property "Footprint" ""
 			(at 30.48 120.65 0)
 			(effects
 				(font
@@ -4644,7 +4644,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "W"
 			(at 55.88 52.07 0)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "W"
+		(property "Footprint" ""
 			(at 55.88 52.07 0)
 			(effects
 				(font
@@ -4711,7 +4711,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "S"
 			(at 55.88 74.93 0)
 			(effects
 				(font
@@ -4719,7 +4719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "S"
+		(property "Footprint" ""
 			(at 55.88 74.93 0)
 			(effects
 				(font
@@ -4778,7 +4778,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "H"
 			(at 106.68 74.93 0)
 			(effects
 				(font
@@ -4786,7 +4786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "H"
+		(property "Footprint" ""
 			(at 106.68 74.93 0)
 			(effects
 				(font
@@ -4845,7 +4845,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "'\""
 			(at 170.18 74.93 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "'\""
+		(property "Footprint" ""
 			(at 170.18 74.93 0)
 			(effects
 				(font
@@ -4912,7 +4912,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "C"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "C"
+		(property "Footprint" ""
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -4979,7 +4979,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ";:"
 			(at 157.48 74.93 0)
 			(effects
 				(font
@@ -4987,7 +4987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ";:"
+		(property "Footprint" ""
 			(at 157.48 74.93 0)
 			(effects
 				(font
@@ -5310,7 +5310,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Y"
 			(at 106.68 52.07 0)
 			(effects
 				(font
@@ -5318,7 +5318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Y"
+		(property "Footprint" ""
 			(at 106.68 52.07 0)
 			(effects
 				(font
@@ -5377,7 +5377,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "FN"
 			(at 157.48 120.65 0)
 			(effects
 				(font
@@ -5385,7 +5385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FN"
+		(property "Footprint" ""
 			(at 157.48 120.65 0)
 			(effects
 				(font
@@ -5620,7 +5620,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#7"
 			(at 119.38 29.21 0)
 			(effects
 				(font
@@ -5628,7 +5628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#7"
+		(property "Footprint" ""
 			(at 119.38 29.21 0)
 			(effects
 				(font
@@ -5687,7 +5687,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "`~"
 			(at 30.48 29.21 0)
 			(effects
 				(font
@@ -5695,7 +5695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "`~"
+		(property "Footprint" ""
 			(at 30.48 29.21 0)
 			(effects
 				(font
@@ -5754,7 +5754,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "K"
 			(at 132.08 74.93 0)
 			(effects
 				(font
@@ -5762,7 +5762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "K"
+		(property "Footprint" ""
 			(at 132.08 74.93 0)
 			(effects
 				(font
@@ -5821,7 +5821,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "=+"
 			(at 182.88 29.21 0)
 			(effects
 				(font
@@ -5829,7 +5829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "=+"
+		(property "Footprint" ""
 			(at 182.88 29.21 0)
 			(effects
 				(font
@@ -5888,7 +5888,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#3"
 			(at 68.58 29.21 0)
 			(effects
 				(font
@@ -5896,7 +5896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#3"
+		(property "Footprint" ""
 			(at 68.58 29.21 0)
 			(effects
 				(font
@@ -5955,7 +5955,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#8"
 			(at 132.08 29.21 0)
 			(effects
 				(font
@@ -5963,7 +5963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#8"
+		(property "Footprint" ""
 			(at 132.08 29.21 0)
 			(effects
 				(font
@@ -6022,7 +6022,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ".>"
 			(at 144.78 97.79 0)
 			(effects
 				(font
@@ -6030,7 +6030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ".>"
+		(property "Footprint" ""
 			(at 144.78 97.79 0)
 			(effects
 				(font
@@ -6089,7 +6089,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "P"
 			(at 157.48 52.07 0)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "P"
+		(property "Footprint" ""
 			(at 157.48 52.07 0)
 			(effects
 				(font
@@ -6156,7 +6156,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" ",<"
 			(at 132.08 97.79 0)
 			(effects
 				(font
@@ -6164,7 +6164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ",<"
+		(property "Footprint" ""
 			(at 132.08 97.79 0)
 			(effects
 				(font
@@ -6399,7 +6399,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "PRVS"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -6407,7 +6407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PRVS"
+		(property "Footprint" ""
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -6554,7 +6554,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "G"
 			(at 93.98 74.93 0)
 			(effects
 				(font
@@ -6562,7 +6562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "G"
+		(property "Footprint" ""
 			(at 93.98 74.93 0)
 			(effects
 				(font
@@ -6885,7 +6885,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "U"
 			(at 119.38 52.07 0)
 			(effects
 				(font
@@ -6893,7 +6893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "U"
+		(property "Footprint" ""
 			(at 119.38 52.07 0)
 			(effects
 				(font
@@ -7128,7 +7128,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#5"
 			(at 93.98 29.21 0)
 			(effects
 				(font
@@ -7136,7 +7136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#5"
+		(property "Footprint" ""
 			(at 93.98 29.21 0)
 			(effects
 				(font
@@ -7283,7 +7283,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "UP"
 			(at 195.58 97.79 0)
 			(effects
 				(font
@@ -7291,7 +7291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UP"
+		(property "Footprint" ""
 			(at 195.58 97.79 0)
 			(effects
 				(font
@@ -7438,7 +7438,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Q"
 			(at 43.18 52.07 0)
 			(effects
 				(font
@@ -7446,7 +7446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Q"
+		(property "Footprint" ""
 			(at 43.18 52.07 0)
 			(effects
 				(font
@@ -7681,7 +7681,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SPC"
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -7689,7 +7689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SPC"
+		(property "Footprint" ""
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -7748,7 +7748,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "X"
 			(at 55.88 97.79 0)
 			(effects
 				(font
@@ -7756,7 +7756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "X"
+		(property "Footprint" ""
 			(at 55.88 97.79 0)
 			(effects
 				(font
@@ -7903,7 +7903,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "DEL"
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -7911,7 +7911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DEL"
+		(property "Footprint" ""
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -7970,7 +7970,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "O"
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -7978,7 +7978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "O"
+		(property "Footprint" ""
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -8037,7 +8037,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "/?"
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "/?"
+		(property "Footprint" ""
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -8192,7 +8192,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "J"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -8200,7 +8200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "J"
+		(property "Footprint" ""
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -8347,7 +8347,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "T"
 			(at 93.98 52.07 0)
 			(effects
 				(font
@@ -8355,7 +8355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T"
+		(property "Footprint" ""
 			(at 93.98 52.07 0)
 			(effects
 				(font
@@ -8414,7 +8414,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "I"
 			(at 132.08 52.07 0)
 			(effects
 				(font
@@ -8422,7 +8422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "I"
+		(property "Footprint" ""
 			(at 132.08 52.07 0)
 			(effects
 				(font
@@ -8657,7 +8657,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#6"
 			(at 106.68 29.21 0)
 			(effects
 				(font
@@ -8665,7 +8665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#6"
+		(property "Footprint" ""
 			(at 106.68 29.21 0)
 			(effects
 				(font
@@ -8900,7 +8900,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CPSLCK"
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -8908,7 +8908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CPSLCK"
+		(property "Footprint" ""
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -8967,7 +8967,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#0"
 			(at 157.48 29.21 0)
 			(effects
 				(font
@@ -8975,7 +8975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#0"
+		(property "Footprint" ""
 			(at 157.48 29.21 0)
 			(effects
 				(font
@@ -9034,7 +9034,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "L"
 			(at 144.78 74.93 0)
 			(effects
 				(font
@@ -9042,7 +9042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L"
+		(property "Footprint" ""
 			(at 144.78 74.93 0)
 			(effects
 				(font
@@ -9365,7 +9365,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "PAUSE"
 			(at 208.28 29.21 0)
 			(effects
 				(font
@@ -9373,7 +9373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PAUSE"
+		(property "Footprint" ""
 			(at 208.28 29.21 0)
 			(effects
 				(font
@@ -9608,7 +9608,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ALT"
 			(at 144.78 120.65 0)
 			(effects
 				(font
@@ -9616,7 +9616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ALT"
+		(property "Footprint" ""
 			(at 144.78 120.65 0)
 			(effects
 				(font
@@ -9675,7 +9675,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "D"
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -9683,7 +9683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D"
+		(property "Footprint" ""
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -9742,7 +9742,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "CTRL"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -9750,7 +9750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CTRL"
+		(property "Footprint" ""
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -9809,7 +9809,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "[{"
 			(at 170.18 52.07 0)
 			(effects
 				(font
@@ -9817,7 +9817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "[{"
+		(property "Footprint" ""
 			(at 170.18 52.07 0)
 			(effects
 				(font
@@ -9876,7 +9876,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "RIGHT"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -9884,7 +9884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RIGHT"
+		(property "Footprint" ""
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -10383,7 +10383,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "DOWN"
 			(at 195.58 120.65 0)
 			(effects
 				(font
@@ -10391,7 +10391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DOWN"
+		(property "Footprint" ""
 			(at 195.58 120.65 0)
 			(effects
 				(font
@@ -10538,7 +10538,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "-_"
 			(at 170.18 29.21 0)
 			(effects
 				(font
@@ -10546,7 +10546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "-_"
+		(property "Footprint" ""
 			(at 170.18 29.21 0)
 			(effects
 				(font
@@ -10605,7 +10605,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "V"
 			(at 81.28 97.79 0)
 			(effects
 				(font
@@ -10613,7 +10613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V"
+		(property "Footprint" ""
 			(at 81.28 97.79 0)
 			(effects
 				(font
@@ -10672,7 +10672,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SHFT"
 			(at 30.48 97.79 0)
 			(effects
 				(font
@@ -10680,7 +10680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SHFT"
+		(property "Footprint" ""
 			(at 30.48 97.79 0)
 			(effects
 				(font
@@ -10827,7 +10827,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -10835,7 +10835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "B"
+		(property "Footprint" ""
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -10982,7 +10982,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "E"
 			(at 68.58 52.07 0)
 			(effects
 				(font
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "E"
+		(property "Footprint" ""
 			(at 68.58 52.07 0)
 			(effects
 				(font
@@ -11049,7 +11049,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ENTR"
 			(at 195.58 74.93 0)
 			(effects
 				(font
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ENTR"
+		(property "Footprint" ""
 			(at 195.58 74.93 0)
 			(effects
 				(font
@@ -11116,7 +11116,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "ALT"
 			(at 55.88 120.65 0)
 			(effects
 				(font
@@ -11124,7 +11124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ALT"
+		(property "Footprint" ""
 			(at 55.88 120.65 0)
 			(effects
 				(font
@@ -11183,7 +11183,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "F"
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -11191,7 +11191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "F"
+		(property "Footprint" ""
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -11426,7 +11426,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "N"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -11434,7 +11434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N"
+		(property "Footprint" ""
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -11757,7 +11757,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#9"
 			(at 144.78 29.21 0)
 			(effects
 				(font
@@ -11765,7 +11765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#9"
+		(property "Footprint" ""
 			(at 144.78 29.21 0)
 			(effects
 				(font
@@ -11912,7 +11912,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "A"
 			(at 43.18 74.93 0)
 			(effects
 				(font
@@ -11920,7 +11920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A"
+		(property "Footprint" ""
 			(at 43.18 74.93 0)
 			(effects
 				(font
@@ -12067,7 +12067,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "LEFT"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -12075,7 +12075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LEFT"
+		(property "Footprint" ""
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -12134,7 +12134,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "WIN"
 			(at 43.18 120.65 0)
 			(effects
 				(font
@@ -12142,7 +12142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WIN"
+		(property "Footprint" ""
 			(at 43.18 120.65 0)
 			(effects
 				(font
@@ -12289,7 +12289,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SHFT"
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -12297,7 +12297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SHFT"
+		(property "Footprint" ""
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -12444,7 +12444,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "M"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -12452,7 +12452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "M"
+		(property "Footprint" ""
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -12775,7 +12775,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "NEXT"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -12783,7 +12783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NEXT"
+		(property "Footprint" ""
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -12930,7 +12930,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#4"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -12938,7 +12938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#4"
+		(property "Footprint" ""
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -13085,7 +13085,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Z"
 			(at 43.18 97.79 0)
 			(effects
 				(font
@@ -13093,7 +13093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Z"
+		(property "Footprint" ""
 			(at 43.18 97.79 0)
 			(effects
 				(font
@@ -13152,7 +13152,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "#1"
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -13160,7 +13160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#1"
+		(property "Footprint" ""
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -13923,7 +13923,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "R"
 			(at 81.28 52.07 0)
 			(effects
 				(font
@@ -13931,7 +13931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R"
+		(property "Footprint" ""
 			(at 81.28 52.07 0)
 			(effects
 				(font
@@ -13990,7 +13990,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "\\|"
 			(at 195.58 52.07 0)
 			(effects
 				(font
@@ -13998,7 +13998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "\\|"
+		(property "Footprint" ""
 			(at 195.58 52.07 0)
 			(effects
 				(font
