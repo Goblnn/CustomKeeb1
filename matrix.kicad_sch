@@ -3613,7 +3613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.5U-NoLED"
 			(at 30.48 52.07 0)
 			(effects
 				(font
@@ -3944,7 +3944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 55.88 29.21 0)
 			(effects
 				(font
@@ -4011,7 +4011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-2U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-2U-NoLED"
 			(at 195.58 29.21 0)
 			(effects
 				(font
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 30.48 120.65 0)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 55.88 52.07 0)
 			(effects
 				(font
@@ -4719,7 +4719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 55.88 74.93 0)
 			(effects
 				(font
@@ -4786,7 +4786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 106.68 74.93 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 170.18 74.93 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -4987,7 +4987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 157.48 74.93 0)
 			(effects
 				(font
@@ -5318,7 +5318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 106.68 52.07 0)
 			(effects
 				(font
@@ -5385,7 +5385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 157.48 120.65 0)
 			(effects
 				(font
@@ -5628,7 +5628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 119.38 29.21 0)
 			(effects
 				(font
@@ -5695,7 +5695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 30.48 29.21 0)
 			(effects
 				(font
@@ -5762,7 +5762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 132.08 74.93 0)
 			(effects
 				(font
@@ -5829,7 +5829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 182.88 29.21 0)
 			(effects
 				(font
@@ -5896,7 +5896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 29.21 0)
 			(effects
 				(font
@@ -5963,7 +5963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 132.08 29.21 0)
 			(effects
 				(font
@@ -6030,7 +6030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 144.78 97.79 0)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 157.48 52.07 0)
 			(effects
 				(font
@@ -6164,7 +6164,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 132.08 97.79 0)
 			(effects
 				(font
@@ -6407,7 +6407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -6562,7 +6562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 93.98 74.93 0)
 			(effects
 				(font
@@ -6893,7 +6893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 119.38 52.07 0)
 			(effects
 				(font
@@ -7136,7 +7136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 93.98 29.21 0)
 			(effects
 				(font
@@ -7291,7 +7291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 195.58 97.79 0)
 			(effects
 				(font
@@ -7446,7 +7446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 43.18 52.07 0)
 			(effects
 				(font
@@ -7689,7 +7689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-6.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-6.25U-NoLED"
 			(at 106.68 120.65 0)
 			(effects
 				(font
@@ -7756,7 +7756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 55.88 97.79 0)
 			(effects
 				(font
@@ -7911,7 +7911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -7978,7 +7978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -8200,7 +8200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -8355,7 +8355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 93.98 52.07 0)
 			(effects
 				(font
@@ -8422,7 +8422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 132.08 52.07 0)
 			(effects
 				(font
@@ -8665,7 +8665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 106.68 29.21 0)
 			(effects
 				(font
@@ -8908,7 +8908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.75U-NoLED"
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -8975,7 +8975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 157.48 29.21 0)
 			(effects
 				(font
@@ -9042,7 +9042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 144.78 74.93 0)
 			(effects
 				(font
@@ -9373,7 +9373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 29.21 0)
 			(effects
 				(font
@@ -9616,7 +9616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 144.78 120.65 0)
 			(effects
 				(font
@@ -9683,7 +9683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -9750,7 +9750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -9817,7 +9817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 170.18 52.07 0)
 			(effects
 				(font
@@ -9884,7 +9884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -10391,7 +10391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 195.58 120.65 0)
 			(effects
 				(font
@@ -10546,7 +10546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 170.18 29.21 0)
 			(effects
 				(font
@@ -10613,7 +10613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 81.28 97.79 0)
 			(effects
 				(font
@@ -10680,7 +10680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-2.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-2.25U-NoLED"
 			(at 30.48 97.79 0)
 			(effects
 				(font
@@ -10835,7 +10835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 52.07 0)
 			(effects
 				(font
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-2.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-2.25U-NoLED"
 			(at 195.58 74.93 0)
 			(effects
 				(font
@@ -11124,7 +11124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 55.88 120.65 0)
 			(effects
 				(font
@@ -11191,7 +11191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 81.28 74.93 0)
 			(effects
 				(font
@@ -11434,7 +11434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -11765,7 +11765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 144.78 29.21 0)
 			(effects
 				(font
@@ -11920,7 +11920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 43.18 74.93 0)
 			(effects
 				(font
@@ -12075,7 +12075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -12142,7 +12142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 43.18 120.65 0)
 			(effects
 				(font
@@ -12297,7 +12297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.75U-NoLED"
 			(at 182.88 97.79 0)
 			(effects
 				(font
@@ -12452,7 +12452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -12783,7 +12783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -12938,7 +12938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -13093,7 +13093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 43.18 97.79 0)
 			(effects
 				(font
@@ -13160,7 +13160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -13931,7 +13931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 81.28 52.07 0)
 			(effects
 				(font
@@ -13998,7 +13998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1.5U-NoLED"
 			(at 195.58 52.07 0)
 			(effects
 				(font
